@@ -13,6 +13,7 @@ The Library is designed for people developing projects in the data science strea
 Visualización de Datos
 Data Visualization
 -------------------------------
+
 Estas funcionalidades están diseñadas para desplegar gráficos y subplots de manera automática, además de desplegar formas personalizadas por los desarrolladores para tener una mejor visión de la distribución y/o comportamineto del conjunto de datos estudiado.
 
 Funciones incluidas (included functions) : graf_bar_horizon, f1, move_spines, plot_pairplot, stacked_bar_plot, num_plot, bar_hor, plot_bar_chart_with_numbers_y, plot_boxplot, data_report, grafico, scat_log_visualize, sweet_heatmap, sweet_pie_1, sweet_pie_2, sweet_cloud, plot_numerical_huetarget, escribir_a_color, plot_2dline, top100plot.
